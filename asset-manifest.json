@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assign5LineChart/static/css/main.3f197c68.css",
+    "main.js": "/Assign5LineChart/static/js/main.3aa9d4bd.js",
+    "static/js/453.c64f898a.chunk.js": "/Assign5LineChart/static/js/453.c64f898a.chunk.js",
+    "index.html": "/Assign5LineChart/index.html",
+    "main.3f197c68.css.map": "/Assign5LineChart/static/css/main.3f197c68.css.map",
+    "main.3aa9d4bd.js.map": "/Assign5LineChart/static/js/main.3aa9d4bd.js.map",
+    "453.c64f898a.chunk.js.map": "/Assign5LineChart/static/js/453.c64f898a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f197c68.css",
+    "static/js/main.3aa9d4bd.js"
+  ]
+}
