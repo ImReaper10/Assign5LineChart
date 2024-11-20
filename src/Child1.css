@@ -1,0 +1,88 @@
+.tooltip {
+    position: absolute;
+    background: #333;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 0.9em;
+    line-height: 1.0;
+    opacity: 0;
+    pointer-events: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.open-dot {
+    fill: #b2df8a;
+    r: 5;
+}
+
+.close-dot {
+    fill: #e41a1c;
+    r: 5;
+}
+
+.child1 .controls {
+    margin-bottom: 20px;
+}
+
+.child1 .controls h3 {
+    margin: 10px 0;
+}
+
+.child1 #chart {
+    margin-top: 20px;
+}
+
+.line-open {
+    fill: none;
+    stroke: #b2df8a;
+    stroke-width: 2;
+}
+
+.line-close {
+    fill: none;
+    stroke: #e41a1c;
+    stroke-width: 2;
+}
+
+.x-axis-label {
+    font-size: 14px;
+    fill: #333;
+    text-anchor: middle;
+}
+
+.y-axis-label {
+    font-size: 14px;
+    fill: #333;
+    text-anchor: middle;
+    transform: rotate(-90deg);
+    transform-origin: center;
+}
+
+.legend-group {
+    font-size: 12px;
+}
+
+.legend-circle {
+    r: 5;
+}
+
+.open-legend {
+    fill: #b2df8a;
+}
+
+.close-legend {
+    fill: #e41a1c;
+}
+
+.open-legend-text {
+    fill: #333;
+    font-size: 12px;
+    alignment-baseline: middle;
+}
+
+.close-legend-text {
+    fill: #333;
+    font-size: 12px;
+    alignment-baseline: middle;
+}
